@@ -1,5 +1,8 @@
+com\mycompany\managmentsystem\PatientService.class
 com\mycompany\managmentsystem\UserMode.class
-com\mycompany\managmentsystem\AdminMode.class
-com\mycompany\managmentsystem\ManagmentSystem.class
 com\mycompany\managmentsystem\ClinicLife.class
 com\mycompany\managmentsystem\InvalidAdminException.class
+com\mycompany\managmentsystem\AdminService.class
+com\mycompany\managmentsystem\AdminMode.class
+com\mycompany\managmentsystem\DataBase.class
+com\mycompany\managmentsystem\ManagmentSystem.class

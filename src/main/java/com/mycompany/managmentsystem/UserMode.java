@@ -20,7 +20,7 @@ public class UserMode extends AdminMode {
 //            n++ ;
         switch (getchoice()) {
             case 1:
-                if(!added) {System.out.println("No patient added currently..!"); continue;}
+                if(PatientService.noPatients()) { continue;}
                 try {
                     System.out.println("--------------------------------------------------");
                 System.out.println("Enter Patient ID : ");
